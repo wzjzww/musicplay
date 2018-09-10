@@ -1,0 +1,16 @@
+[{
+	"src": "http://localhost:8080/music/Banaroo - Space Cowboy.mp3",
+	"title": "Space Cowboy",
+	"auther": "Banaroo",
+	"img": "http://localhost:8080/img/space.png"
+},{
+	"src": "http://localhost:8080/music/Cubi - BINGBIAN.mp3",
+	"title": "BINGBIAN",
+	"auther": "Cubi",
+	"img": "http://localhost:8080/img/bing.png"
+},{
+	"src": "http://localhost:8080/music/He Is We - All About Us.mp3",
+	"title": "All About Us",
+	"auther": "He Is We",
+	"img": "http://localhost:8080/img/all.png"
+}]
